@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "264853102800",
+    "project_id": "mobiledocker",
+    "storage_bucket": "mobiledocker.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264853102800:android:10242e123d0969cb1efed5",
+        "android_client_info": {
+          "package_name": "com.example.l11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClbZzEh57Z-BD_SlJMUzngLe9NrPLuWbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
