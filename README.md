@@ -1,16 +1,1 @@
-# l11
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is a web application built with Flutter for the front-end and Python for the back-end. The system allows users to upload documents containing address information. It uses PyMuPDF to extract text and search for keywords such as name, house number(No.), village (Moo), alley (Soi), road, subdistrict, district, province, and postal code — supporting both Thai and English. The back-end is implemented using FastAPI, and all extracted data is stored in MongoDB.
